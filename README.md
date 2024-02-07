@@ -1,4 +1,10 @@
+
+
+
 # bmp-js
+
+##NOTE
+Modified to remove negative hight attribute from output bitmap. 
 
 A pure javascript Bmp encoder and decoder for node.js
 
